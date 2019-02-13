@@ -13,7 +13,7 @@ Invalid data is currently ignored.
 
 # See also
 
-- [@zerowastemap/schemas](https://github.com/@zerowastemap/schemas) - Schemas for zero waste map
+- [@zerowastemap/schemas](https://github.com/zerowastemap/schemas) - Schemas for zero waste map
 
 # LICENSE
 
